@@ -1,0 +1,63 @@
+
+☝️  --- >  Index only               --- >   Move cursor     
+🤏  --- >  Thumb + Index Single pinch      --- >   Left click      
+🤏  --- >  Thumb + Index Double pinch      --- >   Left click      
+🖐️  --- >  All 4 fingers open and moving up      --- >   Scroll mode     
+✊  --- >  All 4 fingers open and moving down    --- >   Scroll Dowm      
+👍  --- >  All 4 fingers and thumb closed        --- >  ScreenShot
+
+
+
+---->   Pamb + All Fingers + Thumb  ==> HAND
+
+1. Index Finger Movement  ==> ☝️ Mouse Move
+
+2. Index + Thumb Touch Single  ==> 🤏 Single Click
+
+5. All 4 Fingers Moving Upwards  ==> 🖐️ Scroll Up
+ 
+6. Close All Fingers + Thumb and made Mukka  ==> ✊ ScreenShot
+
+7. All 4 Fingers Moving Downwards  ==> 🖐️ Scroll Down
+
+
+                    ✋ HAND
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+      Thumb         Fingers       Finger
+        │             │           Position
+        │             │             │
+        ↓             ↓             ↓
+     Gestures     Finger Count   Movement
+        │             │             │
+        ├── 🤏       ├── 0       ✊ Screenshot
+        │   Left     │
+        │   Click    ├── 4       🖐️ Scroll
+        │             │
+        ├── 🤏 Hold  ├── 2       ✌️ Right Click
+        │   Drag      │
+        │             │
+        ├── 👌       └── 1       ☝️ Cursor
+        │   Double
+        │   Click
+        │
+        └── 👍
+            Special
+            actions
+
+
+Expecting
+| Hand gesture                    | Activity        |
+| ------------------------------- | --------------- |
+| ☝️ **Index only**               | Move cursor     |
+| 🤏 **Thumb + Index pinch**      | Left click      |
+| 🤏 **Thumb + Index hold**       | Drag & Drop     |
+| ✌️ **Index + Middle**           | Right click     |
+| 🤟 **Index + Middle + Ring**    | Zoom mode       |
+| 🖐️ **All 4 fingers open**      | Scroll mode     |
+| ✊ **All 4 fingers closed**      | Screenshot      |
+| 👍 **Thumb only**               | Play/Pause      |
+| 👌 **Thumb + Middle pinch**     | Double click    |
+| 🤙 **Thumb + Pinky**            | Browser Back    |
+| 🤙 **Thumb + Pinky + movement** | Browser Forward |
